@@ -4,6 +4,7 @@
 ---
 
 <span style="color:green"> Introduction </span>
+
 I’m a senior at the University of Vermont double majoring in Computer Science and Chinese with a minor in History and a 3.81 GPA. Over the past few years, I’ve worked on several software development projects and in professional settings where I learned to take complex ideas and turn them into something that actually works. I enjoy problem-solving, learning new tools, and working on projects that have clear goals and measurable impact. I’m open to a range of tech-related roles, from software development to data and systems work. I’m especially interested in positions where I can keep growing my skills while contributing to something useful.
 
 <span style="color:green"> Education Background </span>
