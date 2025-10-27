@@ -1,7 +1,5 @@
 
-# <center> Kayli Pike 
-
----
+#   <center> Kayli Pike </center>
 
 ## Introduction
 
