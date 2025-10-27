@@ -7,10 +7,10 @@
   
 <span style="color:green"> Work Experience </span>
 1. C&S Wholesale Grocers
-   **Current Position**
+   *Current Position*
     - IT Intern, Order to Cash Team
 3. University of Vermont
-   **Current Positions**
+   *Current Positions*
     - Advanced Programming Teaching Assistant
     - STEM Ambassador
     - Student Accessibility Services Worker
