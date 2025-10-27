@@ -16,18 +16,23 @@
 
 <span style="color:green"> Projects </span>
 1. Full-stack Website  
+
 [Github](https://github.com/kaylipike/Beginner-Website.git) | [Website](https://knpike.w3.uvm.edu/cs1080/final/index.php)
 
 2. Mandarin Flashcards Study Tool
+
 [Github]([https://github.com/tylerJPike/BottomUpMacroIndicators](https://github.com/kaylipike/Mandarin-Study-Tool.git)) 
 
 3. Spy Name Generator Testing Website 
+
 [Github](https://github.com/kaylipike/Spy-Name-Generator-Test-Website.git)
 
 4. Yahtzee: Java Implementation
+
 [Github](https://github.com/kaylipike/Yahtzee.git)
 
 5. Wordle: Python Implementation
+
 [Github](https://github.com/kaylipike/Wordle-Python.git)
 
 ---
