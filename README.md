@@ -1,5 +1,5 @@
 
-# <p align=center> >Kayli Pike </p>
+# <p align=center> Kayli Pike </p>
 
 ---
 
